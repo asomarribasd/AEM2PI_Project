@@ -1,0 +1,64 @@
+# HR SaaS Company FAQ Documentation
+
+## Employee Onboarding & Policies
+
+### What is the standard onboarding process for new employees?
+The onboarding process begins 2 weeks before your start date when HR sends welcome emails containing login credentials, handbook access, and first-day instructions. New employees complete mandatory training modules including compliance, security awareness, and company culture orientation during their first week. Your direct manager will conduct daily check-ins for the first month and assign you a buddy from your team for informal guidance. All required paperwork, including I-9 verification, tax forms, and benefit enrollment, must be completed within 30 days of your start date.
+
+### What are the company's remote work policies?
+Our hybrid work model allows employees to work remotely up to 3 days per week, with mandatory in-office presence on Tuesdays and Thursdays for team collaboration. Remote work requires manager approval and completion of our remote work agreement. All remote workers must maintain a professional home office setup with reliable internet (minimum 25 Mbps upload/download), ergonomic workspace, and appropriate lighting for video calls. Company-provided equipment includes laptop, monitor, keyboard, mouse, and headset. Remote work privileges may be revoked for performance issues or policy violations.
+
+### How does the performance review process work?
+Performance reviews occur quarterly with annual comprehensive evaluations in December. The process includes self-assessment, 360-degree feedback from peers and direct reports, and manager evaluation using our competency framework. Reviews focus on goal achievement, core values demonstration, skill development, and career progression. Employees receive written feedback within 2 weeks of review meetings. Performance ratings range from Exceeds Expectations to Needs Improvement, directly impacting salary adjustments, bonus eligibility, and promotion consideration.
+
+### What is the company dress code policy?
+Business casual attire is required in office environments, including closed-toe shoes, professional pants or skirts, and collared shirts or blouses. Casual Fridays allow jeans and company-branded apparel. Client-facing roles require business professional attire during customer meetings. Remote workers should maintain professional appearance during video calls. Prohibited items include shorts, tank tops, flip-flops, and clothing with inappropriate messaging. Special events may have specific dress requirements communicated in advance.
+
+## Benefits & Compensation
+
+### What health insurance options are available?
+We offer three comprehensive health insurance plans through Blue Cross Blue Shield: Basic PPO (company pays 80% of premiums), Enhanced PPO (company pays 75%), and High-Deductible Health Plan with HSA (company pays 85% plus $1,000 annual HSA contribution). All plans include prescription drug coverage, mental health services, and preventive care at no cost. Dental and vision insurance are available as voluntary benefits with employee contributions. Open enrollment occurs annually in November with coverage beginning January 1st.
+
+### How does the 401(k) retirement plan work?
+Employees are eligible for 401(k) enrollment after 90 days of employment. The company provides 100% match up to 4% of your salary, vesting immediately. You can contribute up to IRS maximum limits ($23,000 for 2024, $30,500 if age 50+). Investment options include diversified mutual funds, target-date funds, and company stock. Financial planning resources and quarterly educational seminars are available through our provider, Fidelity. Automatic enrollment starts at 3% contribution rate unless you opt out during orientation.
+
+### What is the paid time off policy?
+New employees accrue 15 days of PTO annually (prorated based on start date), increasing to 20 days after 3 years and 25 days after 7 years of service. PTO requests require 2 weeks notice for planned absences and manager approval through our HRIS system. Unused PTO up to 40 hours can be carried over to the following year. We also provide 10 company holidays, 5 personal days, and unlimited sick leave for genuine health needs. Bereavement leave offers 5 paid days for immediate family and 3 days for extended family.
+
+### How are bonuses and salary increases determined?
+Annual salary reviews occur in Q1 based on performance ratings, market analysis, and budget allocations. Merit increases range from 2-8% depending on performance and position level. Performance bonuses are calculated as a percentage of base salary: 5-10% for Meets Expectations, 10-15% for Exceeds Expectations. Sales teams have separate commission structures outlined in their compensation plans. Promotion-based increases are evaluated case-by-case considering new role responsibilities and market rates.
+
+## Platform Features & Technical Support
+
+### How do I access the employee self-service portal?
+Log in to the employee portal at portal.company.com using your employee ID and the password provided during onboarding. First-time users must reset their password and set up multi-factor authentication. The portal provides access to pay stubs, tax documents, benefit information, PTO requests, performance reviews, and company directory. Mobile app is available for iOS and Android devices. For login issues, contact IT support at it-help@company.com or call extension 4357.
+
+### What features are available in the time tracking system?
+Our integrated time tracking system allows clock in/out via web portal, mobile app, or badge scanner. Features include project code assignment, break tracking, overtime calculation, and timesheet approval workflow. Managers can view team schedules, approve time entries, and generate reports. Automated reminders notify employees of missing time entries. Integration with payroll ensures accurate compensation. Geofencing technology verifies location for remote workers when required.
+
+### How does the learning management system work?
+The LMS hosts mandatory compliance training, professional development courses, and skill-building modules. New employees must complete 40 hours of required training within 90 days. Course catalog includes leadership development, technical skills, and industry-specific certifications. Progress tracking shows completion status and deadline reminders. Managers can assign additional training and view team progress reports. External training can be uploaded for credit after supervisor approval. Certificates are automatically generated upon course completion.
+
+### What recruitment and applicant tracking features are included?
+Our ATS manages the complete hiring process from job posting to offer acceptance. Features include customizable application forms, automated screening questionnaires, interview scheduling, and collaborative evaluation tools. Integration with major job boards enables one-click posting. Candidate communication is automated with personalized email templates. Reporting dashboard tracks metrics like time-to-hire, source effectiveness, and hiring manager satisfaction. GDPR and EEOC compliance features ensure legal requirements are met.
+
+## IT Support & Security
+
+### What are the cybersecurity requirements for employees?
+All employees must complete annual security awareness training covering phishing identification, password management, and data protection protocols. Multi-factor authentication is required for all system access. Personal devices accessing company data must be enrolled in our mobile device management system. VPN connection is mandatory when accessing company resources from public networks. Suspected security incidents must be reported immediately to security@company.com. Regular security audits and penetration testing ensure system integrity.
+
+### How do I report technical issues or request IT support?
+Submit support tickets through our IT portal at support.company.com, email it-help@company.com, or call extension 4357. Include detailed description, error messages, and steps to reproduce the issue. Priority levels range from Critical (system down) to Low (enhancement requests). Average response times are 15 minutes for critical issues, 4 hours for high priority, and 2 business days for standard requests. Hardware replacement typically takes 1-3 business days. Remote support is available during business hours.
+
+### What software and equipment policies should I know?
+Company-provided equipment includes laptop, monitor, keyboard, mouse, and necessary software licenses. Personal use is permitted within reason but not for illegal activities or competing businesses. Software installation requires IT approval to ensure security compliance and licensing agreements. Equipment must be returned upon termination in original condition, normal wear excepted. Home office stipend of $500 annually is available for ergonomic improvements. Theft or damage should be reported immediately to IT and security departments.
+
+## Leave & Attendance Policies
+
+### What types of leave are available beyond PTO?
+Family and Medical Leave Act (FMLA) provides up to 12 weeks unpaid leave for qualifying events including childbirth, adoption, serious health conditions, or family care. Parental leave offers 8 weeks paid time off for primary caregivers and 4 weeks for secondary caregivers. Military leave accommodates National Guard and Reserve obligations. Jury duty and voting leave are provided as required by law. Sabbatical opportunities exist for employees with 7+ years of tenure subject to business needs and approval.
+
+### How does the flexible scheduling policy work?
+Core business hours are 10 AM to 3 PM when all team members must be available. Outside these hours, employees can adjust start and end times to accommodate personal needs with manager approval. Compressed work weeks (4x10 hour days) are available in certain departments. Schedule changes require 2 weeks notice except for emergencies. Consistent scheduling helps maintain team collaboration and customer service levels. Flex time cannot be used to reduce total weekly hours without taking PTO.
+
+This comprehensive FAQ document covers the most frequently asked questions about our HR policies, benefits, platform features, and procedures. For additional questions not addressed here, please contact your HR representative or submit a ticket through our internal support system.

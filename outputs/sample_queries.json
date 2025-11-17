@@ -1,0 +1,74 @@
+[
+  {
+    "user_question": "What is the remote work policy?",
+    "system_answer": "Our company has a hybrid work model that allows employees to work remotely up to 3 days per week, with mandatory in-office presence on Tuesdays and Thursdays for team collaboration. To work remotely, you need manager approval and must complete our remote work agreement. Remote workers are required to maintain a professional home office setup that includes:\n\n- Reliable internet connection (minimum 25 Mbps upload/download)\n- Ergonomic workspace\n- Appropriate lighting for video calls\n- Company-provided equipment (laptop, monitor, keyboard, mouse, and headset)\n\nPlease note that remote work privileges may be revoked for performance issues or policy violations. This policy ensures we maintain team collaboration while providing flexibility for work-life balance.",
+    "chunks_related": [
+      {
+        "chunk_id": 8,
+        "section_title": "Employee Onboarding & Policies",
+        "similarity_score": 0.92,
+        "text_preview": "Our hybrid work model allows employees to work remotely up to 3 days per week, with mandatory in-office presence on Tuesdays and Thursdays for team collaboration. Remote work requires manager approval and completion of our remote work agreement..."
+      },
+      {
+        "chunk_id": 9,
+        "section_title": "Employee Onboarding & Policies", 
+        "similarity_score": 0.85,
+        "text_preview": "All remote workers must maintain a professional home office setup with reliable internet (minimum 25 Mbps upload/download), ergonomic workspace, and appropriate lighting for video calls. Company-provided equipment includes laptop, monitor, keyboard, mouse, and headset..."
+      }
+    ]
+  },
+  {
+    "user_question": "How does the 401k retirement plan work and what is the company match?",
+    "system_answer": "Our 401(k) retirement plan offers the following benefits:\n\n**Eligibility**: You become eligible to enroll after 90 days of employment.\n\n**Company Match**: We provide a 100% match up to 4% of your salary, and this matching contribution vests immediately.\n\n**Contribution Limits**: You can contribute up to the IRS maximum limits ($23,000 for 2024, or $30,500 if you're age 50 or older).\n\n**Investment Options**: The plan includes diversified mutual funds, target-date funds, and company stock options.\n\n**Automatic Enrollment**: New employees are automatically enrolled at a 3% contribution rate unless they opt out during orientation.\n\n**Additional Resources**: We provide financial planning resources and quarterly educational seminars through our provider, Fidelity, to help you make informed investment decisions.",
+    "chunks_related": [
+      {
+        "chunk_id": 15,
+        "section_title": "Benefits & Compensation",
+        "similarity_score": 0.96,
+        "text_preview": "Employees are eligible for 401(k) enrollment after 90 days of employment. The company provides 100% match up to 4% of your salary, vesting immediately. You can contribute up to IRS maximum limits ($23,000 for 2024, $30,500 if age 50+)..."
+      },
+      {
+        "chunk_id": 16,
+        "section_title": "Benefits & Compensation",
+        "similarity_score": 0.88,
+        "text_preview": "Investment options include diversified mutual funds, target-date funds, and company stock. Financial planning resources and quarterly educational seminars are available through our provider, Fidelity. Automatic enrollment starts at 3% contribution rate..."
+      }
+    ]
+  },
+  {
+    "user_question": "I'm having technical issues with my laptop. How do I get IT support?",
+    "system_answer": "You can get IT support through several methods:\n\n**Submit a Support Ticket**:\n- Online: Visit our IT portal at support.company.com\n- Email: Send details to it-help@company.com\n- Phone: Call extension 4357\n\n**When submitting a request, please include**:\n- Detailed description of the issue\n- Any error messages you're seeing\n- Steps to reproduce the problem\n\n**Response Times** (based on priority level):\n- Critical issues (system down): 15 minutes\n- High priority: 4 hours\n- Standard requests: 2 business days\n\n**Hardware Issues**: If you need hardware replacement, it typically takes 1-3 business days. Remote support is available during business hours to help troubleshoot issues before determining if replacement is needed.\n\nOur IT team is here to help ensure you have the tools needed to work effectively!",
+    "chunks_related": [
+      {
+        "chunk_id": 28,
+        "section_title": "IT Support & Security",
+        "similarity_score": 0.94,
+        "text_preview": "Submit support tickets through our IT portal at support.company.com, email it-help@company.com, or call extension 4357. Include detailed description, error messages, and steps to reproduce the issue. Priority levels range from Critical (system down) to Low (enhancement requests)..."
+      },
+      {
+        "chunk_id": 29,
+        "section_title": "IT Support & Security",
+        "similarity_score": 0.82,
+        "text_preview": "Average response times are 15 minutes for critical issues, 4 hours for high priority, and 2 business days for standard requests. Hardware replacement typically takes 1-3 business days. Remote support is available during business hours..."
+      }
+    ]
+  },
+  {
+    "user_question": "What types of leave are available if I need time off for family reasons?",
+    "system_answer": "We offer several types of family-related leave options:\n\n**Family and Medical Leave Act (FMLA)**:\n- Up to 12 weeks of unpaid leave for qualifying events\n- Covers childbirth, adoption, serious health conditions, or family care\n- Job protection during leave period\n\n**Parental Leave (Paid)**:\n- Primary caregivers: 8 weeks of paid leave\n- Secondary caregivers: 4 weeks of paid leave\n- Available for both childbirth and adoption\n\n**Other Family-Related Leave**:\n- Bereavement leave: 5 paid days for immediate family, 3 days for extended family\n- Military family support for spouses/partners of deployed service members\n\n**Regular PTO**: You can also use your standard paid time off (15-25 days annually based on tenure) for family needs.\n\nFor family emergencies or to coordinate leave, please contact your HR representative who can help you understand which options best fit your specific situation and ensure proper documentation.",
+    "chunks_related": [
+      {
+        "chunk_id": 34,
+        "section_title": "Leave & Attendance Policies",
+        "similarity_score": 0.91,
+        "text_preview": "Family and Medical Leave Act (FMLA) provides up to 12 weeks unpaid leave for qualifying events including childbirth, adoption, serious health conditions, or family care. Parental leave offers 8 weeks paid time off for primary caregivers and 4 weeks for secondary caregivers..."
+      },
+      {
+        "chunk_id": 18,
+        "section_title": "Benefits & Compensation",
+        "similarity_score": 0.76,
+        "text_preview": "We also provide 10 company holidays, 5 personal days, and unlimited sick leave for genuine health needs. Bereavement leave offers 5 paid days for immediate family and 3 days for extended family..."
+      }
+    ]
+  }
+]
