@@ -61,4 +61,13 @@ Family and Medical Leave Act (FMLA) provides up to 12 weeks unpaid leave for qua
 ### How does the flexible scheduling policy work?
 Core business hours are 10 AM to 3 PM when all team members must be available. Outside these hours, employees can adjust start and end times to accommodate personal needs with manager approval. Compressed work weeks (4x10 hour days) are available in certain departments. Schedule changes require 2 weeks notice except for emergencies. Consistent scheduling helps maintain team collaboration and customer service levels. Flex time cannot be used to reduce total weekly hours without taking PTO.
 
-This comprehensive FAQ document covers the most frequently asked questions about our HR policies, benefits, platform features, and procedures. For additional questions not addressed here, please contact your HR representative or submit a ticket through our internal support system.
+## Training
+
+### What training programs are available?
+We offer internal onboarding programs, leadership development, technical skills, security and compliance training, as well as role-specific courses. The LMS catalog is updated quarterly with new courses and resources.
+
+### How do I enroll or get assigned a course?
+Employees can enroll directly from the LMS or accept assignments sent by their manager. Mandatory courses appear as assignments and send reminders until completion.
+
+### Is external training recognized and are certifications granted?
+Yes. External training can be credited with prior approval from your supervisor and review by HR. Completed certifications are recorded in the employee profile and, where applicable, count toward professional development or compliance requirements.

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Data Pipeline for RAG-based FAQ Support Chatbot
 

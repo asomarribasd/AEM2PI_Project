@@ -2,7 +2,7 @@
 
 A production-ready Retrieval-Augmented Generation (RAG) system for automating HR support queries. This chatbot processes FAQ documents, creates a searchable knowledge base using vector embeddings, and provides accurate answers to employee questions with full traceability.
 
-## 🎯 Project Overview
+## Project Overview
 
 This RAG-based chatbot solves the problem of repetitive HR inquiries by:
 - **Intelligent Document Processing**: Automatically chunks FAQ documents into searchable segments
@@ -11,7 +11,7 @@ This RAG-based chatbot solves the problem of repetitive HR inquiries by:
 - **Quality Assurance**: Includes an evaluation agent for automatic response quality scoring
 - **Transparency**: Returns structured JSON with source chunks for full auditability
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 User Question → Embedding → Vector Search → Chunk Retrieval → LLM Answer Generation → JSON Response
@@ -35,14 +35,12 @@ User Question → Embedding → Vector Search → Chunk Retrieval → LLM Answer
 **LLM Model**: GPT-4o-mini
 - **Why**: Excellent performance-to-cost ratio, sufficient capability for factual Q&A tasks
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.8+
 - OpenAI API key
-- 2GB+ RAM for vector operations
-- Windows, macOS, or Linux
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Environment Setup
 
@@ -53,7 +51,7 @@ cd AEM2PI_Project
 # Create virtual environment
 python -m venv venv
 .\venv\Scripts\Activate.ps1  # Windows PowerShell
-# source venv/bin/activate    # macOS/Linux
+# source venv/bin/activate    # mac
 
 # Install dependencies
 pip install -r requirements.txt
@@ -113,7 +111,7 @@ python src/evaluator.py -i response.json -o evaluation.json
 python src/evaluator.py --sample
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 AEM2PI_Project/
@@ -133,7 +131,7 @@ AEM2PI_Project/
 └── README.md                    # This file
 ```
 
-## 🔧 Configuration Options
+## Configuration Options
 
 Edit `.env` file to customize behavior:
 
@@ -152,7 +150,7 @@ TOP_K_CHUNKS=5             # Number of chunks to retrieve
 VECTOR_DB_PATH=./data/vector_store.json
 ```
 
-## 📊 Sample Usage & Output
+## Sample Usage & Output
 
 ### Example Query
 
@@ -189,7 +187,7 @@ VECTOR_DB_PATH=./data/vector_store.json
 }
 ```
 
-## 🧪 Testing
+## Testing
 
 Run the comprehensive test suite:
 
@@ -209,7 +207,7 @@ Test coverage includes:
 - Error handling and edge cases
 - Performance benchmarks
 
-## 🔍 System Capabilities
+## System Capabilities
 
 ### Chunking Intelligence
 - **Section-aware splitting**: Maintains document structure
@@ -235,7 +233,7 @@ Test coverage includes:
 - **Actionable feedback**: Specific improvement recommendations
 - **Consistency**: Standardized 0-10 scoring scale
 
-## ⚠️ Known Limitations
+## Known Limitations
 
 1. **Context Window**: Limited to ~4000 tokens for answer generation
 2. **Static Knowledge**: Requires manual reindexing for document updates
@@ -243,7 +241,7 @@ Test coverage includes:
 4. **Language Support**: Optimized for English content
 5. **Domain Specificity**: Tuned for HR/policy documentation
 
-## 🚀 Production Considerations
+## Production Considerations
 
 ### Scaling Recommendations
 - **Vector Database**: Consider Pinecone, Weaviate, or Chroma for large-scale deployment
@@ -263,7 +261,7 @@ Test coverage includes:
 - **Error Alerting**: Real-time notifications for system failures
 - **Usage Analytics**: Query patterns and user satisfaction metrics
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 Based on testing with the included FAQ document:
 
@@ -273,7 +271,7 @@ Based on testing with the included FAQ document:
 - **End-to-End Response**: 1-3 seconds including LLM generation
 - **Memory Usage**: ~100MB for 1000 chunks with embeddings
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -281,11 +279,11 @@ Based on testing with the included FAQ document:
 4. Ensure all tests pass
 5. Submit a pull request with detailed description
 
-## 📝 License
+## License
 
 This project is developed for educational and evaluation purposes. Ensure compliance with OpenAI's usage policies when deploying in production environments.
 
-## 🆘 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -314,6 +312,3 @@ For technical issues or questions about implementation:
 3. Examine console output for detailed error messages
 4. Consider running the evaluation agent to identify quality issues
 
----
-
-**Built with ❤️ for intelligent automation of HR support workflows**
